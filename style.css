@@ -321,7 +321,6 @@ footer{
     font-size: 16px;
     cursor: pointer;
     border-radius: 40px;
-    /* margin-right: 5%; */
     
 }
 
@@ -348,7 +347,6 @@ button:hover{
     align-items: center;
     justify-content: center;
     background-image: repeating-linear-gradient(to left, #ff5945, #ff5945, rgb(84, 66, 66));
-    /* box-shadow: ; */
     border-radius: 20px;
     color: white;
     height: 100%;
@@ -360,5 +358,4 @@ button:hover{
     display: flex;
     width: 50%;
     justify-content: space-evenly;
-    /* background-color: white; */
 }
